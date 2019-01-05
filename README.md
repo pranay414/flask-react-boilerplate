@@ -12,6 +12,6 @@ A minimalistic boilerplate for using Flask and React together. It is based on [h
 7. Start webpack by running `npm start`
 5. Start the server by running `flask run`
 
-*NOTE:*
+### NOTE:
 
 Webpack will look for file changes in client side and will automatically rebuild everytime when you make a change. In order to see these changes you need to refresh the page in your browser.
