@@ -1,0 +1,5 @@
+hotdog-classifier
+__pycache__
+.vscode
+node_modules
+static
